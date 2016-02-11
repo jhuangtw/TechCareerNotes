@@ -4,6 +4,21 @@
 - ["Manage Your Tech Career", Wealthfront](https://blog.wealthfront.com/startup-employee-equity-compensation/)
 - ["How do I choose where to work?, Wealthfront"](https://blog.wealthfront.com/choose-right-job-company/)
 
+## Research
+
+### People
+- Linkedin, github, etc
+
+### Technology
+- peek at tech stack
+  - [BuiltWith](https://builtwith.com/) [stackshare](http://stackshare.io/), [github](https://github.com)
+
+### Business
+- Traction
+  - [AppAnnie](https://www.appannie.com/), [Google Trends](https://www.google.com/trends), [Alexa](http://www.alexa.com/)
+- Funding
+  - crunchbase, angellist
+
 ## Offer Evaluation
 - ["Negotiating your Startup Job Offer", Robby Grossman](http://rob.by/2013/negotiating-your-startup-job-offer/)
 - [Venturehack](http://venturehacks.com/articles/job-offer)
