@@ -7,19 +7,19 @@
 ## Research
 
 ### People
-- Linkedin, github, etc
+- Crunchbase, Linkedin, Twitter etc
 
 ### Technology
 - peek at tech stack
-  - [BuiltWith](https://builtwith.com/) [stackshare](http://stackshare.io/), [github](https://github.com)
+  - [BuiltWith](https://builtwith.com/), [stackshare](http://stackshare.io/), [Github](https://github.com)
 
 ### Business
 - Traction
   - [AppAnnie](https://www.appannie.com/), [Google Trends](https://www.google.com/trends), [Alexa](http://www.alexa.com/)
-- Funding
-  - crunchbase, angellist
+- Funding / Competitors
+  - Crunchbase, Angellist
 - User Love
-  - twitter, facebook, app store, fan pages etc
+  - Twitter, Facebook, App Store, fan pages etc
 
 ## Offer Evaluation
 - ["Negotiating your Startup Job Offer", Robby Grossman](http://rob.by/2013/negotiating-your-startup-job-offer/)
