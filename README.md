@@ -1,6 +1,7 @@
 # Tech Career
 
 ## Top Level
+- find your true north
 - ["Manage Your Tech Career", Wealthfront](https://blog.wealthfront.com/startup-employee-equity-compensation/)
 - ["How do I choose where to work?, Wealthfront"](https://blog.wealthfront.com/choose-right-job-company/)
 
