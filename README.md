@@ -10,8 +10,8 @@
 - Crunchbase, Linkedin, Twitter etc
 
 ### Technology
-- peek at tech stack
-  - [BuiltWith](https://builtwith.com/), [stackshare](http://stackshare.io/), [Github](https://github.com)
+- survey tech stack
+  - [Github](https://github.com), [BuiltWith](https://builtwith.com/), [Stackshare](http://stackshare.io/), dev blog
 
 ### Business
 - Traction
