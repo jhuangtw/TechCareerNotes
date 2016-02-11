@@ -16,8 +16,10 @@
 ### Business
 - Traction
   - [AppAnnie](https://www.appannie.com/), [Google Trends](https://www.google.com/trends), [Alexa](http://www.alexa.com/)
+
 - Funding / Competitors
   - Crunchbase, Angellist
+  
 - User Love
   - Twitter, Facebook, App Store, fan pages etc
 
