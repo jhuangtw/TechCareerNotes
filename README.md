@@ -18,6 +18,8 @@
   - [AppAnnie](https://www.appannie.com/), [Google Trends](https://www.google.com/trends), [Alexa](http://www.alexa.com/)
 - Funding
   - crunchbase, angellist
+- User Love
+  - twitter, facebook, app store, fan pages etc
 
 ## Offer Evaluation
 - ["Negotiating your Startup Job Offer", Robby Grossman](http://rob.by/2013/negotiating-your-startup-job-offer/)
