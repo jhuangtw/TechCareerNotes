@@ -24,6 +24,8 @@
 - User Love
   - Twitter, Facebook, App Store, fan pages etc
 
+- Sizing up the market / pie
+
 ## Offer Evaluation
 - ["Negotiating your Startup Job Offer", Robby Grossman](http://rob.by/2013/negotiating-your-startup-job-offer/)
 - [Venturehack](http://venturehacks.com/articles/job-offer)
