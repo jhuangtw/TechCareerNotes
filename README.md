@@ -15,6 +15,7 @@
   - [Github](https://github.com), [BuiltWith](https://builtwith.com/), [Stackshare](http://stackshare.io/), dev blog
 - development process
   - waterfall, scrum, agile, kanban etc
+  - peer code review, continuous integration, continuous delivery, test-driven, doc-driven, design-drive etc
 
 ### Business
 - Traction
