@@ -10,9 +10,11 @@
 ### People
 - Crunchbase, Linkedin, Twitter etc
 
-### Technology
+### Tech / Devel
 - survey tech stack
   - [Github](https://github.com), [BuiltWith](https://builtwith.com/), [Stackshare](http://stackshare.io/), dev blog
+- development process
+  - waterfall, scrum, agile, kanban etc
 
 ### Business
 - Traction
