@@ -25,6 +25,7 @@
   - Twitter, Facebook, App Store, fan pages etc
 
 - Sizing up the market / pie
+  - [Ways to think about market size](http://ben-evans.com/benedictevans/2015/2/28/market-size) 
 
 ## Offer Evaluation
 - ["Negotiating your Startup Job Offer", Robby Grossman](http://rob.by/2013/negotiating-your-startup-job-offer/)
