@@ -33,6 +33,7 @@
 
 ### Startup Equity
 - ["Stock options, RSUs, taxes — a guide for humans", Joshua Levy & Joe Wallin](https://github.com/jlevy/og-equity-compensation)
+- ["A Counterintuitive System for Startup Comp", First Round](http://firstround.com/review/A-Counterintuitive-System-for-Startup-Compensation/)
 - ["Option Pool Shuffle", venturehacks](http://venturehacks.com/articles/option-pool-shuffle#market)
 - ["Valuing Employee Options", Leo Polovets](http://codingvc.com/valuing-employee-options/)
 - ["Employee Equity: How Much?", Fred Wilson](http://avc.com/2010/11/employee-equity-how-much/)
