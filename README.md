@@ -30,12 +30,17 @@
 - Sizing up the market / pie
   - [Ways to think about market size](http://ben-evans.com/benedictevans/2015/2/28/market-size) 
 
+## Interview Prep
+- ["Interview Prep, Hired.com"](https://blog.hired.com/pre-interview-prep/)
+
 ## Offer Evaluation
+- survey Glassdoor and Quora
 - ["Negotiating your Startup Job Offer", Robby Grossman](http://rob.by/2013/negotiating-your-startup-job-offer/)
 - [Venturehack](http://venturehacks.com/articles/job-offer)
 
 ### Startup Equity
-- ["Stock options, RSUs, taxes — a guide for humans", Joshua Levy & Joe Wallin](https://github.com/jlevy/og-equity-compensation)
+- basic: ["How Funding Works"](http://fundersandfounders.com/how-funding-works-splitting-equity/)
+- advanced: ["Stock options, RSUs, taxes — a guide for humans", Joshua Levy & Joe Wallin](https://github.com/jlevy/og-equity-compensation)
 - ["A Counterintuitive System for Startup Comp", First Round](http://firstround.com/review/A-Counterintuitive-System-for-Startup-Compensation/)
 - ["Option Pool Shuffle", venturehacks](http://venturehacks.com/articles/option-pool-shuffle#market)
 - ["Valuing Employee Options", Leo Polovets](http://codingvc.com/valuing-employee-options/)
