@@ -27,6 +27,10 @@
 - User Love
   - Twitter, Facebook, App Store, fan pages etc
 
+- Landscape
+  - theinformation.com, [firstround review](http://firstround.com/review/)
+  - know what you are getting yourself into [startup playbook](http://playbook.samaltman.com/)
+
 - Sizing up the market / pie
   - [Ways to think about market size](http://ben-evans.com/benedictevans/2015/2/28/market-size) 
 
