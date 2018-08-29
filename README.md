@@ -44,7 +44,7 @@
 - ["Negotiating your Startup Job Offer", Robby Grossman](http://rob.by/2013/negotiating-your-startup-job-offer/)
 - [Venturehack](http://venturehacks.com/articles/job-offer)
 - [FirstRound: Comp Tips](http://firstround.com/review/counterintuitive-comp-tips-for-the-unwary-and-uninitiated/)
-- [HiringPlan / Connery Data](https://hiringplan.io/)
+- [HiringPlan](https://hiringplan.io/), data provided by [Connery](http://www.conneryconsulting.com/)
 
 ### Startup Equity
 - basic: ["How Funding Works"](http://fundersandfounders.com/how-funding-works-splitting-equity/)
