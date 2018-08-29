@@ -36,6 +36,8 @@
 
 ## Interview Prep
 - ["Interview Prep, Hired.com"](https://blog.hired.com/pre-interview-prep/)
+- ["How to tell your career story without boring your interviewer"](https://www.fastcompany.com/90221472/how-to-tell-your-career-story-without-boring-your-interviewer)
+- ["Triplebyte Blog"](https://triplebyte.com/blog)
 
 ## Offer Evaluation
 - survey Glassdoor and Quora
