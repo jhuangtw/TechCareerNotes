@@ -45,6 +45,7 @@
 - [Venturehack](http://venturehacks.com/articles/job-offer)
 - [FirstRound: Comp Tips](http://firstround.com/review/counterintuitive-comp-tips-for-the-unwary-and-uninitiated/)
 - [HiringPlan](https://hiringplan.io/), data provided by [Connery](http://www.conneryconsulting.com/)
+- [Convincing engineers to join your team](https://triplebyte.com/blog/convincing-engineers-to-join-your-team)
 
 ### Startup Equity
 - basic: ["How Funding Works"](http://fundersandfounders.com/how-funding-works-splitting-equity/)
