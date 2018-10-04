@@ -47,7 +47,7 @@
 - [FirstRound: Comp Tips](http://firstround.com/review/counterintuitive-comp-tips-for-the-unwary-and-uninitiated/)
 - [HiringPlan](https://hiringplan.io/), data provided by [Connery](http://www.conneryconsulting.com/)
 - [Convincing engineers to join your team](https://triplebyte.com/blog/convincing-engineers-to-join-your-team)
-- [RSU vs Options](https://blog.wealthfront.com/stock-options-versus-rsu/)
+- [How not to bomb offer negotiation](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)
 
 ### Startup Equity
 - basic: ["How Funding Works"](http://fundersandfounders.com/how-funding-works-splitting-equity/)
@@ -56,3 +56,6 @@
 - ["Option Pool Shuffle", venturehacks](http://venturehacks.com/articles/option-pool-shuffle#market)
 - ["Valuing Employee Options", Leo Polovets](http://codingvc.com/valuing-employee-options/)
 - ["Employee Equity: How Much?", Fred Wilson](http://avc.com/2010/11/employee-equity-how-much/)
+- [Unicorn equity](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
+- [RSU vs Options](https://blog.wealthfront.com/stock-options-versus-rsu/)
+
