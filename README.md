@@ -51,6 +51,7 @@
 
 ### Startup Equity
 - basic: ["How Funding Works"](http://fundersandfounders.com/how-funding-works-splitting-equity/)
+- [Startup Equity Basics](https://humaninterest.com/blog/startup-equity-basics-ask-stock-accept/)
 - advanced: ["Stock options, RSUs, taxes — a guide for humans", Joshua Levy & Joe Wallin](https://github.com/jlevy/og-equity-compensation)
 - [What I Wish I'd Known About Equity Before Joining A Unicorn](https://gist.github.com/yossorion/4965df74fd6da6cdc280ec57e83a202d)
 - ["A Counterintuitive System for Startup Comp", First Round](http://firstround.com/review/A-Counterintuitive-System-for-Startup-Compensation/)
