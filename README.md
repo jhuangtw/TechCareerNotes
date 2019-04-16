@@ -59,4 +59,4 @@
 - ["Valuing Employee Options", Leo Polovets](http://codingvc.com/valuing-employee-options/)
 - ["Employee Equity: How Much?", Fred Wilson](http://avc.com/2010/11/employee-equity-how-much/)
 - [RSU vs Options](https://blog.wealthfront.com/stock-options-versus-rsu/)
-
+- [RSU vs Optoins](https://www.capshare.com/blog/rsus-vs-options/)
