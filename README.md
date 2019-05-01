@@ -60,3 +60,4 @@
 - ["Employee Equity: How Much?", Fred Wilson](http://avc.com/2010/11/employee-equity-how-much/)
 - [RSU vs Options](https://blog.wealthfront.com/stock-options-versus-rsu/)
 - [RSU vs Optoins](https://www.capshare.com/blog/rsus-vs-options/)
+- [Guide to Early Exercise](https://quip.com/XGxQAoOc6fEp/Guide-to-Early-Exercise)
