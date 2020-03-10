@@ -61,3 +61,4 @@
 - [RSU vs Options](https://blog.wealthfront.com/stock-options-versus-rsu/)
 - [RSU vs Optoins](https://www.capshare.com/blog/rsus-vs-options/)
 - [Guide to Early Exercise](https://quip.com/XGxQAoOc6fEp/Guide-to-Early-Exercise)
+- [Tender Offer (Carta Q&A)](https://carta.com/blog/tender-offer-faq/)
