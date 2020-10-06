@@ -6,6 +6,7 @@
 - ["How do I choose where to work?, Wealthfront"](https://blog.wealthfront.com/choose-right-job-company/)
 
 ## Research
+- https://angel.co/blog/30-questions-to-ask-before-joining-a-startup
 
 ### People
 - Crunchbase, Linkedin, Twitter etc
