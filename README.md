@@ -46,7 +46,7 @@
 - ["Negotiating your Startup Job Offer", Robby Grossman](http://rob.by/2013/negotiating-your-startup-job-offer/)
 - [Venturehack](http://venturehacks.com/articles/job-offer)
 - [FirstRound: Comp Tips](http://firstround.com/review/counterintuitive-comp-tips-for-the-unwary-and-uninitiated/)
-- [HiringPlan](https://hiringplan.io/), data provided by [Connery](http://www.conneryconsulting.com/), payscale, paysa, [levels.fyi](https://www.levels.fyi/charts.html), radford
+- [HiringPlan](https://hiringplan.io/), data provided by [Connery](http://www.conneryconsulting.com/), payscale, paysa, [levels.fyi](https://www.levels.fyi/charts.html), radford, [AI Paygrades](https://aipaygrad.es/)
 - [Convincing engineers to join your team](https://triplebyte.com/blog/convincing-engineers-to-join-your-team)
 - [How not to bomb offer negotiation](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)
 
