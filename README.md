@@ -43,6 +43,7 @@
 
 ## Offer Evaluation
 - survey Glassdoor and Quora
+- [Holloway Equity Comp Guide](https://www.holloway.com/g/equity-compensation)
 - ["Negotiating your Startup Job Offer", Robby Grossman](http://rob.by/2013/negotiating-your-startup-job-offer/)
 - [Venturehack](http://venturehacks.com/articles/job-offer)
 - [FirstRound: Comp Tips](http://firstround.com/review/counterintuitive-comp-tips-for-the-unwary-and-uninitiated/)
