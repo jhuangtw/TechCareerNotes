@@ -8,6 +8,12 @@
 ## Research
 - https://angel.co/blog/30-questions-to-ask-before-joining-a-startup
 
+### Company Profile / Research
+- https://craft.co/
+- https://corp.owler.com/
+- https://www.zoominfo.com/
+- https://growjo.com/
+
 ### People
 - Crunchbase, Linkedin, Twitter etc
 
