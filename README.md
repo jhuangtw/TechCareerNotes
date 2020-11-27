@@ -47,6 +47,18 @@
 - [Triplebyte Blog](https://triplebyte.com/blog)
 - [bigO things](http://www.bigocheatsheet.com/)
 - https://github.com/jwasham/coding-interview-university
+- https://databricks.com/blog/2020/01/22/engineering-intervews-a-hiring-managers-guide.html
+- https://yangshun.github.io/tech-interview-handbook/algorithms/algorithms-introduction/
+- https://github.com/donnemartin/system-design-primer
+- https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3
+- https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f
+- https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26
+- https://www.educative.io/courses/grokking-the-system-design-interview
+- https://gist.github.com/vasanthk/485d1c25737e8e72759f
+- https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
+- 2-phase/3-phase commit, distributed median, heartbeat/election
+- http://dancres.github.io/Pages/
+
 
 ## Offer Evaluation
 - survey Glassdoor and Quora
