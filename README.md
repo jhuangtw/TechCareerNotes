@@ -58,6 +58,7 @@
 - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 - 2-phase/3-phase commit, distributed median, heartbeat/election
 - http://dancres.github.io/Pages/
+- https://www.hackingnote.com/en/interview/system-design-interview-questions
 
 
 ## Offer Evaluation
