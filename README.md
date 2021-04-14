@@ -4,6 +4,7 @@
 - find your true north
 - ["Manage Your Tech Career", Wealthfront](https://blog.wealthfront.com/startup-employee-equity-compensation/)
 - ["How do I choose where to work?, Wealthfront"](https://blog.wealthfront.com/choose-right-job-company/)
+- ["Joining a Startup for the First Time? 30 Actionable Tips From Folks Who've Been There"](https://review.firstround.com/30-tips-for-new-startup-employees)
 
 ## Research
 - https://angel.co/blog/30-questions-to-ask-before-joining-a-startup
@@ -59,7 +60,6 @@
 - 2-phase/3-phase commit, distributed median, heartbeat/election
 - http://dancres.github.io/Pages/
 - https://www.hackingnote.com/en/interview/system-design-interview-questions
-
 
 ## Offer Evaluation
 - survey Glassdoor and Quora
