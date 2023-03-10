@@ -60,6 +60,7 @@
 - 2-phase/3-phase commit, distributed median, heartbeat/election
 - http://dancres.github.io/Pages/
 - https://www.hackingnote.com/en/interview/system-design-interview-questions
+- https://github.com/alex/what-happens-when
 
 ## Offer Evaluation
 - survey Glassdoor and Quora
