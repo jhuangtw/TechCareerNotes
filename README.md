@@ -61,6 +61,7 @@
 - http://dancres.github.io/Pages/
 - https://www.hackingnote.com/en/interview/system-design-interview-questions
 - https://github.com/alex/what-happens-when
+- https://www.metacareers.com/careers/swe-prep-techscreen
 
 ## Offer Evaluation
 - survey Glassdoor and Quora
