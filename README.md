@@ -74,6 +74,7 @@
 - [How not to bomb offer negotiation](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)
 
 ### Startup Equity
+- https://notice.co/
 - basic: ["How Funding Works"](http://fundersandfounders.com/how-funding-works-splitting-equity/)
 - [Startup Equity Basics](https://humaninterest.com/blog/startup-equity-basics-ask-stock-accept/)
 - advanced: ["Stock options, RSUs, taxes — a guide for humans", Joshua Levy & Joe Wallin](https://github.com/jlevy/og-equity-compensation)
