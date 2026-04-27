@@ -34,7 +34,7 @@
   - Crunchbase, Angellist
   
 - User Love
-  - Twitter, Facebook, App Store, fan pages etc
+  - Twitter, Facebook, App Store, reddit, fan pages etc
 
 - Landscape
   - theinformation.com, [firstround review](http://firstround.com/review/)
