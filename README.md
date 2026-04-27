@@ -65,7 +65,7 @@
 - https://www.metacareers.com/careers/swe-prep-techscreen
 
 ## Offer Evaluation
-- survey Glassdoor and Quora
+- survey levels.fyi, Glassdoor, blind and Quora. note data is sparse and biased
 - [Holloway Equity Comp Guide](https://www.holloway.com/g/equity-compensation)
 - ["Negotiating your Startup Job Offer", Robby Grossman](http://rob.by/2013/negotiating-your-startup-job-offer/)
 - [Venturehack](http://venturehacks.com/articles/job-offer)
