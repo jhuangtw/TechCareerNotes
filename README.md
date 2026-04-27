@@ -16,7 +16,8 @@
 - https://growjo.com/
 
 ### People
-- Crunchbase, Linkedin, Twitter etc
+- Crunchbase, Linkedin, Twitter, github etc
+- https://theorg.com/
 
 ### Tech / Devel
 - survey tech stack
