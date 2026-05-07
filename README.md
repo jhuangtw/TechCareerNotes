@@ -66,6 +66,7 @@
 
 ## Offer Evaluation
 - survey levels.fyi, Glassdoor, blind and Quora. note data is sparse and biased
+- [Carta startup equity calculator](https://carta.com/learn/equity/startup-equity-calculator/)
 - [Holloway Equity Comp Guide](https://www.holloway.com/g/equity-compensation)
 - ["Negotiating your Startup Job Offer", Robby Grossman](http://rob.by/2013/negotiating-your-startup-job-offer/)
 - [Venturehack](http://venturehacks.com/articles/job-offer)
@@ -75,7 +76,7 @@
 - [How not to bomb offer negotiation](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)
 
 ### Startup Equity
-- https://notice.co/
+- [Notice: late stage equity pricing references. note data may be sparse with high error bars](https://notice.co/)
 - basic: ["How Funding Works"](http://fundersandfounders.com/how-funding-works-splitting-equity/)
 - [Startup Equity Basics](https://humaninterest.com/blog/startup-equity-basics-ask-stock-accept/)
 - advanced: ["Stock options, RSUs, taxes — a guide for humans", Joshua Levy & Joe Wallin](https://github.com/jlevy/og-equity-compensation)
