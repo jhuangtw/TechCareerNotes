@@ -64,6 +64,9 @@
 - https://github.com/alex/what-happens-when
 - https://www.metacareers.com/careers/swe-prep-techscreen
 
+#### system design
+- https://github.com/ByteByteGoHq/system-design-101
+
 ## Offer Evaluation
 - survey levels.fyi, Glassdoor, blind and Quora. note data is sparse and biased
 - [Carta startup equity calculator](https://carta.com/learn/equity/startup-equity-calculator/)
