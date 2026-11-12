@@ -55,7 +55,7 @@
 - https://hackernoon.com/a-hitchhikers-guide-to-consensus-algorithms-d81aae3eb0e3
 - https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f
 - https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26
-- https://www.educative.io/courses/grokking-the-system-design-interview
+- https://www.designgurus.io/course/grokking-the-system-design-interview
 - https://gist.github.com/vasanthk/485d1c25737e8e72759f
 - https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying
 - 2-phase/3-phase commit, distributed median, heartbeat/election
